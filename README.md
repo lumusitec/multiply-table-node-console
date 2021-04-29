@@ -1,7 +1,7 @@
 # 📜 Notas:
 Aplicación simple para generar tabla de multiplicar.
 
-Después de clonar hacer el repo no olvidar hacer:
+Después de clonar el repo, no olvidar hacer:
 
 ```bash
 npm install
@@ -10,11 +10,12 @@ Con esto se instalaran las dependencias necesarias de la aplicación
 
 ## 📌 Uso:
 
-Para utilizar la aplicación puede usar help para información de uso
+Para más información sobre la aplicación, puede usar help
 
 ```bash
 node app --help
 ```
+
 ```bash
 Options:
       --help     Show help                                             [boolean]
